@@ -1,11 +1,11 @@
-# 2FAService
+# 2FAService ASP.NET CORE WEBAPI .NET 6
 2 factory authentication Service
 
 Welcome to the 2FAService wiki!
 
 Before you start testing  this app please refer to the intructions above
 
-* Step 1: Configurations 
+* Step 1: Configurations  in **appsettings.json**
 
  "Service2FASetting":{
     "CodeValidityDuration": "00:00:05", 
